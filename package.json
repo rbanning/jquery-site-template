@@ -1,0 +1,28 @@
+{
+  "name": "TEMPALTE",
+  "version": "0.0.1",
+  "description": "site template",
+  "author": "rob <rob@myhallpass.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "css-condense": "^0.0.6",
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^0.12.3",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-cssc": "^0.2.6",
+    "jshint-stylish": "^0.4.0",
+    "matchdep": "^0.3.0"
+  },
+  "notUsed": {
+    "grunt-merge-json": "^0.9.5",
+    "grunt-sass": "^1.2.0"
+  }
+}

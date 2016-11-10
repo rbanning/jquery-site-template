@@ -1,0 +1,15 @@
+{
+  "name": "TEMPLATE",
+  "authors": [
+    "rob <rob@myhallpass.com>"
+  ],
+  "description": "site template",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "www.myhallpass.com",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "moment": "^2.15.1"
+  }
+}
